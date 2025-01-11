@@ -1,1 +1,1 @@
-console.log("ESPACIO DE PRUEBA 1")
+console.log("Empezando uso de programa")
